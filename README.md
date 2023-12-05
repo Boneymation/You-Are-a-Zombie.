@@ -70,4 +70,3 @@ Use these abilities wisely on those flesh piles!
 
 ---
 That's it! Thanks for reading the script, and playing the game.
-I'm still novice at Unity.
