@@ -32,22 +32,38 @@ Raising enough of it will unlock new abilities.
 
 
 
-4 Killcounts  :  Run
+*4 Killcounts*  :  Run
 
-8 Killcounts  :  Double attack
+*8 Killcounts*  :  Double attack
 
-13 Killcounts  :  Heavy attack
+*13 Killcounts*  :  Heavy attack
 
-18 Killcounts  :  Movement speed increase
+*18 Killcounts*  :  Movement speed increase
 
-23 Killcounts  :  Damage increase
+*23 Killcounts*  :  Damage increase
 
-27 Killcounts  :  Projectile attack
+*27 Killcounts*  :  Projectile attack
 
-32 Killcounts  :  Full health regeneration
+*32 Killcounts*  :  Full health regeneration
 
-40 Killcounts  :  Invincibility for 15 seconds
+*40 Killcounts*  :  Invincibility for 15 seconds
 
 Use these abilities wisely on those flesh piles!
 
 ## Basic Controls
+
+*W*  :  Jump
+
+*A*  :  Move left
+
+*D*  :  Move right
+
+*S*  :  Crouch
+
+*W* and *S* can interact with stairway doors.
+
+*P*  :  Attack
+
+*O*  :  Heavy attack
+
+*I*  :  Projectile attack
