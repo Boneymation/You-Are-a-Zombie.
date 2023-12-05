@@ -67,3 +67,7 @@ Use these abilities wisely on those flesh piles!
 *O*  :  Heavy attack
 
 *I*  :  Projectile attack
+
+---
+That's it! Thanks for reading the script, and playing the game.
+I'm still novice at Unity.
