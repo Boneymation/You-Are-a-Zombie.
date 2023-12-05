@@ -1,6 +1,5 @@
 # You Are a Zombie.
 
-
 My first-ever Unity game project. A zombie beat 'em up, but you are a zombie.
 
 
@@ -21,14 +20,17 @@ The only option for you to survive is striking them first.
 That's right, you are a zombie! Go murder some people!
 
 Survivors in the building wields different weapons and has diverse patterns.
-
-Some of them might surprise you by 
+Some of them might surprise you by appearing from the background. Be aware.
 
 The goal of the game is escaping the building with your heart still pumping.
 You can kill whoever you want, however you want, and how much you want.
 
 With each kills, you raise KILLCOUNT at the left bottom corner of the screen.
-Raising enough of it will unlock new abilities:
+Raising enough of it will unlock new abilities.
+
+### Killcount Unlockables
+
+
 
 4 Killcounts  :  Run
 
@@ -45,3 +47,7 @@ Raising enough of it will unlock new abilities:
 32 Killcounts  :  Full health regeneration
 
 40 Killcounts  :  Invincibility for 15 seconds
+
+Use these abilities wisely on those flesh piles!
+
+## Basic Controls
